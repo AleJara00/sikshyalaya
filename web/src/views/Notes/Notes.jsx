@@ -1,3 +1,4 @@
+import 'react-quill/dist/quill.snow.css';
 import React, { useState, useContext, useEffect } from "react";
 import Grid from "@material-ui/core/Grid";
 import colorscheme from "../../utils/colors";
